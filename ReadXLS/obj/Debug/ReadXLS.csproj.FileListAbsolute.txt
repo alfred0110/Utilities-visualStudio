@@ -1,6 +1,0 @@
-c:\users\alfred\documents\visual studio 2015\Projects\ReadXLS\ReadXLS\bin\Debug\ReadXLS.exe.config
-c:\users\alfred\documents\visual studio 2015\Projects\ReadXLS\ReadXLS\bin\Debug\ReadXLS.exe
-c:\users\alfred\documents\visual studio 2015\Projects\ReadXLS\ReadXLS\bin\Debug\ReadXLS.pdb
-c:\users\alfred\documents\visual studio 2015\Projects\ReadXLS\ReadXLS\obj\Debug\ReadXLS.csprojResolveAssemblyReference.cache
-c:\users\alfred\documents\visual studio 2015\Projects\ReadXLS\ReadXLS\obj\Debug\ReadXLS.exe
-c:\users\alfred\documents\visual studio 2015\Projects\ReadXLS\ReadXLS\obj\Debug\ReadXLS.pdb
